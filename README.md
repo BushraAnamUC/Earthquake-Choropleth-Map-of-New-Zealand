@@ -76,6 +76,26 @@ This project showcases the power of Folium to visualsze earthquake frequency acr
 
 ---
 
+## Directory Structure
+
+NZ-Earthquake-Choropleth/
+├── data/
+│   ├── earthquake_data.geojson       # Earthquake GeoJSON file
+│   ├── nz_regions.shp                # Shapefile for New Zealand regions
+├── output/
+│   ├── joined_data_cleaned.geojson   # Processed GeoJSON file
+│   ├── earthquake_choropleth_map.html # Final HTML map
+├── src/
+│   ├── create_choropleth_map.py      # Main script to generate the map
+├── requirements.txt                  # Dependencies for the project
+├── README.md                         # Project documentation
+├── LICENSE                           # License information
+
+
+
+---
+
+
 ## Installation
 
 ### Prerequisites:
@@ -83,3 +103,26 @@ This project showcases the power of Folium to visualsze earthquake frequency acr
 - Required libraries:
   ```bash
   pip install geopandas folium pandas
+
+### Instructions to Set Up a Complete GitHub Project:
+
+1. **Create a New GitHub Repository:**
+   - Go to [GitHub](https://github.com/) and create a new repository named `NZ-Earthquake-Choropleth`.
+
+2. **Clone the Repository Locally:**
+   ```bash
+   git clone https://github.com/username/NZ-Earthquake-Choropleth.git
+   cd NZ-Earthquake-Choropleth
+
+
+---
+
+
+### Instructions to Use the File:  
+1. Save this content in a file named `README.md`.  
+2. Ensure the directory structure matches the one mentioned above.  
+3. Push the repository to GitHub for public or private access.  
+
+Let me know if you need further help! 😊
+
+For questions or suggestions, feel free to open an issue or contact me at bushra@outlook.co.nz.
