@@ -78,19 +78,19 @@ This project showcases the power of Folium to visualsze earthquake frequency acr
 
 ## Directory Structure
 
-NZ-Earthquake-Choropleth/
-├── data/
-│   ├── earthquake_data.geojson       # Earthquake GeoJSON file
-│   ├── nz_regions.shp                # Shapefile for New Zealand regions
-├── output/
-│   ├── joined_data_cleaned.geojson   # Processed GeoJSON file
-│   ├── earthquake_choropleth_map.html # Final HTML map
-├── src/
-│   ├── create_choropleth_map.py      # Main script to generate the map
-├── requirements.txt                  # Dependencies for the project
-├── README.md                         # Project documentation
-├── LICENSE                           # License information
 
+NZ-Earthquake-Choropleth/  
+├── data/  
+│   ├── earthquake_data.geojson  # Earthquake GeoJSON file  
+│   ├── nz_regions.shp           # Shapefile for New Zealand regions  
+├── output/  
+│   ├── joined_data_cleaned.geojson  # Processed GeoJSON file  
+│   ├── earthquake_choropleth_map.html  # Final HTML map  
+├── src/  
+│   ├── create_choropleth_map.py  # Main script to generate the map  
+├── requirements.txt              # Dependencies for the project  
+├── README.md                     # Project documentation  
+├── LICENSE                       # License information  
 
 
 ---
