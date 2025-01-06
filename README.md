@@ -83,8 +83,7 @@ NZ-Earthquake-Choropleth/
 ├── data/  
 │   ├── earthquake.geojson  # Earthquake GeoJSON file  
 │   ├── NZ-Shapefiles/territorial-authority-2023-generalised/territorial-authority-2023-generalised.shp           # Shapefile for New Zealand regions  
-├── output/  
-│   ├── joined_data_cleaned.geojson  # Processed GeoJSON file  
+├── output/   
 │   ├── earthquake_choropleth_map.html  # Final HTML map  
 ├── src/  
 │   ├── create_choropleth_map.py  # Main script to generate the map  
