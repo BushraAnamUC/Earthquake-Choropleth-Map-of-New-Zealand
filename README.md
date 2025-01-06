@@ -15,7 +15,7 @@
 ---
 
 ## Introduction
-This project creates a **Choropleth Map** to visualise the frequency of earthquakes in various regions of New Zealand over the past year. Using geospatial data and Python libraries such as **GeoPandas** and **Folium**, we plot earthquake density as a color-coded map, highlighting regional variations in seismic activity.
+This project creates a **Choropleth Map** to visualise the frequency of earthquakes in various regions of New Zealand over the past year. Using geospatial data and Python libraries such as **GeoPandas** and **Folium**, we plot earthquake density as a colour-coded map, highlighting regional variations in seismic activity.
 
 ---
 
