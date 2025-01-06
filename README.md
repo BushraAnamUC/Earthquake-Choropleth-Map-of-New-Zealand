@@ -78,7 +78,7 @@ This project showcases the power of Folium to visualsze earthquake frequency acr
 
 ## Directory Structure
 
-
+```
 NZ-Earthquake-Choropleth/  
 ├── data/  
 │   ├── earthquake_data.geojson  # Earthquake GeoJSON file  
@@ -92,6 +92,8 @@ NZ-Earthquake-Choropleth/
 ├── README.md                     # Project documentation  
 ├── LICENSE                       # License information  
 
+
+```
 
 ---
 
