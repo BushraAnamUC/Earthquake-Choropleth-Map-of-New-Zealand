@@ -6,11 +6,8 @@
 - [Why Folium?](#why-folium)
 - [Dataset Information](#dataset-information)
 - [Project Workflow](#project-workflow)
-- [Installation](#installation)
 - [Directory Structure](#directory-structure)
-- [Code Explanation](#code-explanation)
-- [Output](#output)
-- [License](#license)
+- [Instructions to Use the File](#Instructions-to-Use-the-File)
 
 ---
 
@@ -89,34 +86,12 @@ NZ-Earthquake-Choropleth/
 │   ├── create_choropleth_map.py  # Main script to generate the map  
 ├── requirements.txt              # Dependencies for the project  
 ├── README.md                     # Project documentation  
-├── LICENSE                       # License information  
 
 
 ```
 
 ---
 
-
-## Installation
-
-### Prerequisites:
-- Python 3.8 or higher
-- Required libraries:
-  ```bash
-  pip install geopandas folium pandas
-
-### Instructions to Set Up a Complete GitHub Project:
-
-1. **Create a New GitHub Repository:**
-   - Go to [GitHub](https://github.com/) and create a new repository named `NZ-Earthquake-Choropleth`.
-
-2. **Clone the Repository Locally:**
-   ```bash
-   git clone https://github.com/username/NZ-Earthquake-Choropleth.git
-   cd NZ-Earthquake-Choropleth
-
-
----
 
 
 ### Instructions to Use the File:  
