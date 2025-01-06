@@ -81,8 +81,8 @@ This project showcases the power of Folium to visualsze earthquake frequency acr
 ```
 NZ-Earthquake-Choropleth/  
 ├── data/  
-│   ├── earthquake_data.geojson  # Earthquake GeoJSON file  
-│   ├── nz_regions.shp           # Shapefile for New Zealand regions  
+│   ├── earthquake.geojson  # Earthquake GeoJSON file  
+│   ├── NZ-Shapefiles/territorial-authority-2023-generalised/territorial-authority-2023-generalised.shp           # Shapefile for New Zealand regions  
 ├── output/  
 │   ├── joined_data_cleaned.geojson  # Processed GeoJSON file  
 │   ├── earthquake_choropleth_map.html  # Final HTML map  
